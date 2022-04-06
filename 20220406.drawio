@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T01:17:25.026Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="epAAzzexggec_TFKlSky" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T01:37:34.306Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="C-6yx9vasPVL_YrllQFh" version="17.2.5" type="github">
   <diagram id="7-cY0dzfDdKi5WEk2bNz" name="Page-1">
     <mxGraphModel dx="734" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,16 +9,16 @@
             <mxPoint x="160" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xHhuRk0VI-RRmQqVZv0m-1" value="今日任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xHhuRk0VI-RRmQqVZv0m-1" value="今日任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xHhuRk0VI-RRmQqVZv0m-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHhuRk0VI-RRmQqVZv0m-4" target="xHhuRk0VI-RRmQqVZv0m-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHhuRk0VI-RRmQqVZv0m-4" value="资金变换重构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xHhuRk0VI-RRmQqVZv0m-4" value="资金变化重构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xHhuRk0VI-RRmQqVZv0m-6" value="资金变换日志重构" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xHhuRk0VI-RRmQqVZv0m-6" value="资金变化日志重构" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="100" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
